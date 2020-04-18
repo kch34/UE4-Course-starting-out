@@ -1,0 +1,5 @@
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Udemy UE4 course 4_11_2020\FirstProject\Source\FirstProject/GameplayActors/Floater.h
+f:\udemy ue4 course 4_11_2020\firstproject\intermediate\build\win64\ue4editor\inc\firstproject\Floater.generated.h

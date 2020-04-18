@@ -1,0 +1,7 @@
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+f:\udemy ue4 course 4_11_2020\firstproject\source\firstproject\FirstProjectGameModeBase.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Unreal Engine 4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Unreal Engine 4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FirstProjectGameModeBase.generated.h

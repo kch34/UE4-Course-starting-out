@@ -1,0 +1,25 @@
+﻿  Building FirstProjectEditor...
+  Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  MyObject.cpp (0:02.31 at +0:00)
+  UE4Editor-FirstProject-0008.dll (0:01.04 at +0:02)
+     Creating library F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0008.suppressed.lib and object F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0008.suppressed.exp
+  UE4Editor-FirstProject-0008.lib (0:00.36 at +0:03)
+     Creating library F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0008.lib and object F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0008.exp
+  FirstProjectEditor.target (0:00.17 at +0:03)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 4.12 seconds
+  Total execution time: 4.70 seconds

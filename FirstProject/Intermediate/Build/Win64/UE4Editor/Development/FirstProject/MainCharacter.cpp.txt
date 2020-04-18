@@ -1,0 +1,7 @@
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+f:\udemy ue4 course 4_11_2020\firstproject\source\firstproject\MainCharacter.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Unreal Engine 4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Unreal Engine 4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+F:\Unreal Engine 4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\MainCharacter.generated.h

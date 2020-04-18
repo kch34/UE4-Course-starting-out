@@ -1,0 +1,3 @@
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+f:\udemy ue4 course 4_11_2020\firstproject\source\firstproject\gameplayactors\Floater.h
+F:\Udemy UE4 course 4_11_2020\FirstProject\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Floater.generated.h
